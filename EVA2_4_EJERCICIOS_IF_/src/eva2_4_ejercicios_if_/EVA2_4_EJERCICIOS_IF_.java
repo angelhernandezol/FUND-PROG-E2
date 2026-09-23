@@ -37,7 +37,7 @@ public class EVA2_4_EJERCICIOS_IF_ {
         sal_fin = sal_men + bono;
        
         
-        System.out.println("Se le ha otorgo un bono del 10%");
+        System.out.println("Se le ha otorgado un bono del 10%");
 
         System.out.println("Nombre: " + nombre);
         System.out.println("Salario: " + "$ " + sal_men);
@@ -51,7 +51,7 @@ public class EVA2_4_EJERCICIOS_IF_ {
         sal_fin = sal_men + bono;
     
         
-        System.out.println("Se le ha otorgo un bono del 5%");
+        System.out.println("Se le ha otorgado un bono del 5%");
 
         System.out.println("Nombre: " + nombre);
         System.out.println("Salario: " + "$ " + sal_men);
